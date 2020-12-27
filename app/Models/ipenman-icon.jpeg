@@ -1,0 +1,1370 @@
+fari": "13.1",
+    "samsung": "13.0"
+  },
+  "es.string.pad-end": {
+    "chrome": "57",
+    "edge": "15",
+    "electron": "1.7",
+    "firefox": "48",
+    "ios": "11.0",
+    "node": "8.0",
+    "opera": "44",
+    "opera_mobile": "43",
+    "safari": "11.0",
+    "samsung": "7.0"
+  },
+  "es.string.pad-start": {
+    "chrome": "57",
+    "edge": "15",
+    "electron": "1.7",
+    "firefox": "48",
+    "ios": "11.0",
+    "node": "8.0",
+    "opera": "44",
+    "opera_mobile": "43",
+    "safari": "11.0",
+    "samsung": "7.0"
+  },
+  "es.string.raw": {
+    "chrome": "41",
+    "edge": "13",
+    "electron": "0.21",
+    "firefox": "34",
+    "ios": "9.0",
+    "node": "1.0",
+    "opera": "28",
+    "opera_mobile": "28",
+    "safari": "9.0",
+    "samsung": "3.4"
+  },
+  "es.string.repeat": {
+    "chrome": "41",
+    "edge": "13",
+    "electron": "0.21",
+    "firefox": "24",
+    "ios": "9.0",
+    "node": "1.0",
+    "opera": "28",
+    "opera_mobile": "28",
+    "safari": "9.0",
+    "samsung": "3.4"
+  },
+  "es.string.replace": {
+    "chrome": "64",
+    "edge": "74",
+    "electron": "3.0",
+    "firefox": "78",
+    "ios": "14.0",
+    "node": "10.0",
+    "opera": "51",
+    "opera_mobile": "47",
+    "safari": "14.0",
+    "samsung": "9.0"
+  },
+  "es.string.replace-all": {
+    "chrome": "85",
+    "edge": "85",
+    "electron": "10.0",
+    "firefox": "77",
+    "ios": "13.4",
+    "node": "15.0",
+    "opera": "72",
+    "opera_mobile": "60",
+    "safari": "13.1"
+  },
+  "es.string.search": {
+    "chrome": "51",
+    "edge": "74",
+    "electron": "1.2",
+    "firefox": "49",
+    "ios": "10.0",
+    "node": "6.5",
+    "opera": "38",
+    "opera_mobile": "38",
+    "safari": "10.0",
+    "samsung": "5.0"
+  },
+  "es.string.split": {
+    "chrome": "54",
+    "edge": "74",
+    "electron": "1.4",
+    "firefox": "49",
+    "ios": "10.0",
+    "node": "7.0",
+    "opera": "41",
+    "opera_mobile": "41",
+    "safari": "10.0",
+    "samsung": "6.0"
+  },
+  "es.string.starts-with": {
+    "chrome": "51",
+    "edge": "74",
+    "electron": "1.2",
+    "firefox": "40",
+    "ios": "10.0",
+    "node": "6.5",
+    "opera": "38",
+    "opera_mobile": "38",
+    "safari": "10.0",
+    "samsung": "5.0"
+  },
+  "es.string.trim": {
+    "chrome": "59",
+    "edge": "15",
+    "electron": "1.8",
+    "firefox": "52",
+    "ios": "12.2",
+    "node": "8.3",
+    "opera": "46",
+    "opera_mobile": "43",
+    "safari": "12.1",
+    "samsung": "7.0"
+  },
+  "es.string.trim-end": {
+    "chrome": "66",
+    "edge": "74",
+    "electron": "3.0",
+    "firefox": "61",
+    "ios": "12.2",
+    "node": "10.0",
+    "opera": "53",
+    "opera_mobile": "47",
+    "safari": "12.1",
+    "samsung": "9.0"
+  },
+  "es.string.trim-start": {
+    "chrome": "66",
+    "edge": "74",
+    "electron": "3.0",
+    "firefox": "61",
+    "ios": "12.0",
+    "node": "10.0",
+    "opera": "53",
+    "opera_mobile": "47",
+    "safari": "12.0",
+    "samsung": "9.0"
+  },
+  "es.string.anchor": {
+    "android": "3.0",
+    "chrome": "5",
+    "edge": "12",
+    "electron": "0.20",
+    "firefox": "17",
+    "ios": "6.0",
+    "node": "0.1.27",
+    "opera": "15",
+    "opera_mobile": "15",
+    "phantom": "2.0",
+    "safari": "6.0",
+    "samsung": "1.0"
+  },
+  "es.string.big": {
+    "android": "3.0",
+    "chrome": "5",
+    "edge": "12",
+    "electron": "0.20",
+    "firefox": "2",
+    "ios": "2.0",
+    "node": "0.1.27",
+    "opera": "10.50",
+    "opera_mobile": "10.50",
+    "phantom": "1.9",
+    "safari": "3.1",
+    "samsung": "1.0"
+  },
+  "es.string.blink": {
+    "android": "3.0",
+    "chrome": "5",
+    "edge": "12",
+    "electron": "0.20",
+    "firefox": "2",
+    "ios": "2.0",
+    "node": "0.1.27",
+    "opera": "10.50",
+    "opera_mobile": "10.50",
+    "phantom": "1.9",
+    "safari": "3.1",
+    "samsung": "1.0"
+  },
+  "es.string.bold": {
+    "android": "3.0",
+    "chrome": "5",
+    "edge": "12",
+    "electron": "0.20",
+    "firefox": "2",
+    "ios": "2.0",
+    "node": "0.1.27",
+    "opera": "10.50",
+    "opera_mobile": "10.50",
+    "phantom": "1.9",
+    "safari": "3.1",
+    "samsung": "1.0"
+  },
+  "es.string.fixed": {
+    "android": "3.0",
+    "chrome": "5",
+    "edge": "12",
+    "electron": "0.20",
+    "firefox": "2",
+    "ios": "2.0",
+    "node": "0.1.27",
+    "opera": "10.50",
+    "opera_mobile": "10.50",
+    "phantom": "1.9",
+    "safari": "3.1",
+    "samsung": "1.0"
+  },
+  "es.string.fontcolor": {
+    "android": "3.0",
+    "chrome": "5",
+    "edge": "12",
+    "electron": "0.20",
+    "firefox": "17",
+    "ios": "6.0",
+    "node": "0.1.27",
+    "opera": "15",
+    "opera_mobile": "15",
+    "phantom": "2.0",
+    "safari": "6.0",
+    "samsung": "1.0"
+  },
+  "es.string.fontsize": {
+    "android": "3.0",
+    "chrome": "5",
+    "edge": "12",
+    "electron": "0.20",
+    "firefox": "17",
+    "ios": "6.0",
+    "node": "0.1.27",
+    "opera": "15",
+    "opera_mobile": "15",
+    "phantom": "2.0",
+    "safari": "6.0",
+    "samsung": "1.0"
+  },
+  "es.string.italics": {
+    "android": "3.0",
+    "chrome": "5",
+    "edge": "12",
+    "electron": "0.20",
+    "firefox": "2",
+    "ios": "2.0",
+    "node": "0.1.27",
+    "opera": "10.50",
+    "opera_mobile": "10.50",
+    "phantom": "1.9",
+    "safari": "3.1",
+    "samsung": "1.0"
+  },
+  "es.string.link": {
+    "android": "3.0",
+    "chrome": "5",
+    "edge": "12",
+    "electron": "0.20",
+    "firefox": "17",
+    "ios": "6.0",
+    "node": "0.1.27",
+    "opera": "15",
+    "opera_mobile": "15",
+    "phantom": "2.0",
+    "safari": "6.0",
+    "samsung": "1.0"
+  },
+  "es.string.small": {
+    "android": "3.0",
+    "chrome": "5",
+    "edge": "12",
+    "electron": "0.20",
+    "firefox": "2",
+    "ios": "2.0",
+    "node": "0.1.27",
+    "opera": "10.50",
+    "opera_mobile": "10.50",
+    "phantom": "1.9",
+    "safari": "3.1",
+    "samsung": "1.0"
+  },
+  "es.string.strike": {
+    "android": "3.0",
+    "chrome": "5",
+    "edge": "12",
+    "electron": "0.20",
+    "firefox": "2",
+    "ios": "2.0",
+    "node": "0.1.27",
+    "opera": "10.50",
+    "opera_mobile": "10.50",
+    "phantom": "1.9",
+    "safari": "3.1",
+    "samsung": "1.0"
+  },
+  "es.string.sub": {
+    "android": "3.0",
+    "chrome": "5",
+    "edge": "12",
+    "electron": "0.20",
+    "firefox": "2",
+    "ios": "2.0",
+    "node": "0.1.27",
+    "opera": "10.50",
+    "opera_mobile": "10.50",
+    "phantom": "1.9",
+    "safari": "3.1",
+    "samsung": "1.0"
+  },
+  "es.string.sup": {
+    "android": "3.0",
+    "chrome": "5",
+    "edge": "12",
+    "electron": "0.20",
+    "firefox": "2",
+    "ios": "2.0",
+    "node": "0.1.27",
+    "opera": "10.50",
+    "opera_mobile": "10.50",
+    "phantom": "1.9",
+    "safari": "3.1",
+    "samsung": "1.0"
+  },
+  "es.typed-array.float32-array": {
+    "chrome": "54",
+    "edge": "15",
+    "electron": "1.4",
+    "firefox": "55",
+    "node": "7.0",
+    "opera": "41",
+    "opera_mobile": "41",
+    "samsung": "6.0"
+  },
+  "es.typed-array.float64-array": {
+    "chrome": "54",
+    "edge": "15",
+    "electron": "1.4",
+    "firefox": "55",
+    "node": "7.0",
+    "opera": "41",
+    "opera_mobile": "41",
+    "samsung": "6.0"
+  },
+  "es.typed-array.int8-array": {
+    "chrome": "54",
+    "edge": "15",
+    "electron": "1.4",
+    "firefox": "55",
+    "node": "7.0",
+    "opera": "41",
+    "opera_mobile": "41",
+    "samsung": "6.0"
+  },
+  "es.typed-array.int16-array": {
+    "chrome": "54",
+    "edge": "15",
+    "electron": "1.4",
+    "firefox": "55",
+    "node": "7.0",
+    "opera": "41",
+    "opera_mobile": "41",
+    "samsung": "6.0"
+  },
+  "es.typed-array.int32-array": {
+    "chrome": "54",
+    "edge": "15",
+    "electron": "1.4",
+    "firefox": "55",
+    "node": "7.0",
+    "opera": "41",
+    "opera_mobile": "41",
+    "samsung": "6.0"
+  },
+  "es.typed-array.uint8-array": {
+    "chrome": "54",
+    "edge": "15",
+    "electron": "1.4",
+    "firefox": "55",
+    "node": "7.0",
+    "opera": "41",
+    "opera_mobile": "41",
+    "samsung": "6.0"
+  },
+  "es.typed-array.uint8-clamped-array": {
+    "chrome": "54",
+    "edge": "15",
+    "electron": "1.4",
+    "firefox": "55",
+    "node": "7.0",
+    "opera": "41",
+    "opera_mobile": "41",
+    "samsung": "6.0"
+  },
+  "es.typed-array.uint16-array": {
+    "chrome": "54",
+    "edge": "15",
+    "electron": "1.4",
+    "firefox": "55",
+    "node": "7.0",
+    "opera": "41",
+    "opera_mobile": "41",
+    "samsung": "6.0"
+  },
+  "es.typed-array.uint32-array": {
+    "chrome": "54",
+    "edge": "15",
+    "electron": "1.4",
+    "firefox": "55",
+    "node": "7.0",
+    "opera": "41",
+    "opera_mobile": "41",
+    "samsung": "6.0"
+  },
+  "es.typed-array.copy-within": {
+    "chrome": "45",
+    "edge": "13",
+    "electron": "0.31",
+    "firefox": "34",
+    "ios": "10.0",
+    "node": "4.0",
+    "opera": "32",
+    "opera_mobile": "32",
+    "safari": "10.0",
+    "samsung": "5.0"
+  },
+  "es.typed-array.every": {
+    "chrome": "45",
+    "edge": "13",
+    "electron": "0.31",
+    "firefox": "37",
+    "ios": "10.0",
+    "node": "4.0",
+    "opera": "32",
+    "opera_mobile": "32",
+    "safari": "10.0",
+    "samsung": "5.0"
+  },
+  "es.typed-array.fill": {
+    "chrome": "45",
+    "edge": "13",
+    "electron": "0.31",
+    "firefox": "37",
+    "ios": "10.0",
+    "node": "4.0",
+    "opera": "32",
+    "opera_mobile": "32",
+    "safari": "10.0",
+    "samsung": "5.0"
+  },
+  "es.typed-array.filter": {
+    "chrome": "45",
+    "edge": "13",
+    "electron": "0.31",
+    "firefox": "38",
+    "ios": "10.0",
+    "node": "4.0",
+    "opera": "32",
+    "opera_mobile": "32",
+    "safari": "10.0",
+    "samsung": "5.0"
+  },
+  "es.typed-array.find": {
+    "chrome": "45",
+    "edge": "13",
+    "electron": "0.31",
+    "firefox": "37",
+    "ios": "10.0",
+    "node": "4.0",
+    "opera": "32",
+    "opera_mobile": "32",
+    "safari": "10.0",
+    "samsung": "5.0"
+  },
+  "es.typed-array.find-index": {
+    "chrome": "45",
+    "edge": "13",
+    "electron": "0.31",
+    "firefox": "37",
+    "ios": "10.0",
+    "node": "4.0",
+    "opera": "32",
+    "opera_mobile": "32",
+    "safari": "10.0",
+    "samsung": "5.0"
+  },
+  "es.typed-array.for-each": {
+    "chrome": "45",
+    "edge": "13",
+    "electron": "0.31",
+    "firefox": "38",
+    "ios": "10.0",
+    "node": "4.0",
+    "opera": "32",
+    "opera_mobile": "32",
+    "safari": "10.0",
+    "samsung": "5.0"
+  },
+  "es.typed-array.from": {
+    "chrome": "54",
+    "edge": "15",
+    "electron": "1.4",
+    "firefox": "55",
+    "node": "7.0",
+    "opera": "41",
+    "opera_mobile": "41",
+    "samsung": "6.0"
+  },
+  "es.typed-array.includes": {
+    "chrome": "49",
+    "edge": "14",
+    "electron": "0.37",
+    "firefox": "43",
+    "ios": "10.0",
+    "node": "6.0",
+    "opera": "36",
+    "opera_mobile": "36",
+    "safari": "10.0",
+    "samsung": "5.0"
+  },
+  "es.typed-array.index-of": {
+    "chrome": "45",
+    "edge": "13",
+    "electron": "0.31",
+    "firefox": "37",
+    "ios": "10.0",
+    "node": "4.0",
+    "opera": "32",
+    "opera_mobile": "32",
+    "safari": "10.0",
+    "samsung": "5.0"
+  },
+  "es.typed-array.iterator": {
+    "chrome": "47",
+    "edge": "13",
+    "electron": "0.36",
+    "firefox": "37",
+    "ios": "10.0",
+    "node": "6.0",
+    "opera": "34",
+    "opera_mobile": "34",
+    "safari": "10.0",
+    "samsung": "5.0"
+  },
+  "es.typed-array.join": {
+    "chrome": "45",
+    "edge": "13",
+    "electron": "0.31",
+    "firefox": "37",
+    "ios": "10.0",
+    "node": "4.0",
+    "opera": "32",
+    "opera_mobile": "32",
+    "safari": "10.0",
+    "samsung": "5.0"
+  },
+  "es.typed-array.last-index-of": {
+    "chrome": "45",
+    "edge": "13",
+    "electron": "0.31",
+    "firefox": "37",
+    "ios": "10.0",
+    "node": "4.0",
+    "opera": "32",
+    "opera_mobile": "32",
+    "safari": "10.0",
+    "samsung": "5.0"
+  },
+  "es.typed-array.map": {
+    "chrome": "45",
+    "edge": "13",
+    "electron": "0.31",
+    "firefox": "38",
+    "ios": "10.0",
+    "node": "4.0",
+    "opera": "32",
+    "opera_mobile": "32",
+    "safari": "10.0",
+    "samsung": "5.0"
+  },
+  "es.typed-array.of": {
+    "chrome": "54",
+    "edge": "15",
+    "electron": "1.4",
+    "firefox": "55",
+    "node": "7.0",
+    "opera": "41",
+    "opera_mobile": "41",
+    "samsung": "6.0"
+  },
+  "es.typed-array.reduce": {
+    "chrome": "45",
+    "edge": "13",
+    "electron": "0.31",
+    "firefox": "37",
+    "ios": "10.0",
+    "node": "4.0",
+    "opera": "32",
+    "opera_mobile": "32",
+    "safari": "10.0",
+    "samsung": "5.0"
+  },
+  "es.typed-array.reduce-right": {
+    "chrome": "45",
+    "edge": "13",
+    "electron": "0.31",
+    "firefox": "37",
+    "ios": "10.0",
+    "node": "4.0",
+    "opera": "32",
+    "opera_mobile": "32",
+    "safari": "10.0",
+    "samsung": "5.0"
+  },
+  "es.typed-array.reverse": {
+    "chrome": "45",
+    "edge": "13",
+    "electron": "0.31",
+    "firefox": "37",
+    "ios": "10.0",
+    "node": "4.0",
+    "opera": "32",
+    "opera_mobile": "32",
+    "safari": "10.0",
+    "samsung": "5.0"
+  },
+  "es.typed-array.set": {
+    "android": "4.4",
+    "chrome": "26",
+    "edge": "13",
+    "electron": "0.20",
+    "firefox": "15",
+    "ios": "8.0",
+    "node": "0.11.0",
+    "opera": "16",
+    "opera_mobile": "16",
+    "safari": "7.1",
+    "samsung": "1.5"
+  },
+  "es.typed-array.slice": {
+    "chrome": "45",
+    "edge": "13",
+    "electron": "0.31",
+    "firefox": "38",
+    "ios": "10.0",
+    "node": "4.0",
+    "opera": "32",
+    "opera_mobile": "32",
+    "safari": "10.0",
+    "samsung": "5.0"
+  },
+  "es.typed-array.some": {
+    "chrome": "45",
+    "edge": "13",
+    "electron": "0.31",
+    "firefox": "37",
+    "ios": "10.0",
+    "node": "4.0",
+    "opera": "32",
+    "opera_mobile": "32",
+    "safari": "10.0",
+    "samsung": "5.0"
+  },
+  "es.typed-array.sort": {
+    "chrome": "45",
+    "edge": "13",
+    "electron": "0.31",
+    "firefox": "46",
+    "ios": "10.0",
+    "node": "4.0",
+    "opera": "32",
+    "opera_mobile": "32",
+    "safari": "10.0",
+    "samsung": "5.0"
+  },
+  "es.typed-array.subarray": {
+    "android": "4.4",
+    "chrome": "26",
+    "edge": "13",
+    "electron": "0.20",
+    "firefox": "15",
+    "ios": "8.0",
+    "node": "0.11.0",
+    "opera": "16",
+    "opera_mobile": "16",
+    "safari": "7.1",
+    "samsung": "1.5"
+  },
+  "es.typed-array.to-locale-string": {
+    "chrome": "45",
+    "edge": "74",
+    "electron": "0.31",
+    "firefox": "51",
+    "ios": "10.0",
+    "node": "4.0",
+    "opera": "32",
+    "opera_mobile": "32",
+    "safari": "10.0",
+    "samsung": "5.0"
+  },
+  "es.typed-array.to-string": {
+    "chrome": "51",
+    "edge": "13",
+    "electron": "1.2",
+    "firefox": "51",
+    "ios": "10.0",
+    "node": "6.5",
+    "opera": "38",
+    "opera_mobile": "38",
+    "safari": "10.0",
+    "samsung": "5.0"
+  },
+  "es.weak-map": {
+    "chrome": "51",
+    "edge": "15",
+    "electron": "1.2",
+    "firefox": "53",
+    "ios": "10.0",
+    "node": "6.5",
+    "opera": "38",
+    "opera_mobile": "38",
+    "safari": "10.0",
+    "samsung": "5.0"
+  },
+  "es.weak-set": {
+    "chrome": "51",
+    "edge": "15",
+    "electron": "1.2",
+    "firefox": "53",
+    "ios": "10.0",
+    "node": "6.5",
+    "opera": "38",
+    "opera_mobile": "38",
+    "safari": "10.0",
+    "samsung": "5.0"
+  },
+  "esnext.aggregate-error": {
+    "chrome": "85",
+    "edge": "85",
+    "electron": "10.0",
+    "firefox": "79",
+    "ios": "14.0",
+    "node": "15.0",
+    "opera": "72",
+    "opera_mobile": "60",
+    "safari": "14.0"
+  },
+  "esnext.array.is-template-object": {},
+  "esnext.array.last-index": {},
+  "esnext.array.last-item": {},
+  "esnext.async-iterator.constructor": {},
+  "esnext.async-iterator.as-indexed-pairs": {},
+  "esnext.async-iterator.drop": {},
+  "esnext.async-iterator.every": {},
+  "esnext.async-iterator.filter": {},
+  "esnext.async-iterator.find": {},
+  "esnext.async-iterator.flat-map": {},
+  "esnext.async-iterator.for-each": {},
+  "esnext.async-iterator.from": {},
+  "esnext.async-iterator.map": {},
+  "esnext.async-iterator.reduce": {},
+  "esnext.async-iterator.some": {},
+  "esnext.async-iterator.take": {},
+  "esnext.async-iterator.to-array": {},
+  "esnext.composite-key": {},
+  "esnext.composite-symbol": {},
+  "esnext.global-this": {
+    "chrome": "71",
+    "edge": "74",
+    "electron": "5.0",
+    "firefox": "65",
+    "ios": "12.2",
+    "node": "12.0",
+    "opera": "58",
+    "opera_mobile": "50",
+    "safari": "12.1",
+    "samsung": "10.0"
+  },
+  "esnext.iterator.constructor": {},
+  "esnext.iterator.as-indexed-pairs": {},
+  "esnext.iterator.drop": {},
+  "esnext.iterator.every": {},
+  "esnext.iterator.filter": {},
+  "esnext.iterator.find": {},
+  "esnext.iterator.flat-map": {},
+  "esnext.iterator.for-each": {},
+  "esnext.iterator.from": {},
+  "esnext.iterator.map": {},
+  "esnext.iterator.reduce": {},
+  "esnext.iterator.some": {},
+  "esnext.iterator.take": {},
+  "esnext.iterator.to-array": {},
+  "esnext.map.delete-all": {},
+  "esnext.map.emplace": {},
+  "esnext.map.every": {},
+  "esnext.map.filter": {},
+  "esnext.map.find": {},
+  "esnext.map.find-key": {},
+  "esnext.map.from": {},
+  "esnext.map.group-by": {},
+  "esnext.map.includes": {},
+  "esnext.map.key-by": {},
+  "esnext.map.key-of": {},
+  "esnext.map.map-keys": {},
+  "esnext.map.map-values": {},
+  "esnext.map.merge": {},
+  "esnext.map.of": {},
+  "esnext.map.reduce": {},
+  "esnext.map.some": {},
+  "esnext.map.update": {},
+  "esnext.map.update-or-insert": {},
+  "esnext.map.upsert": {},
+  "esnext.math.clamp": {},
+  "esnext.math.deg-per-rad": {},
+  "esnext.math.degrees": {},
+  "esnext.math.fscale": {},
+  "esnext.math.iaddh": {},
+  "esnext.math.imulh": {},
+  "esnext.math.isubh": {},
+  "esnext.math.rad-per-deg": {},
+  "esnext.math.radians": {},
+  "esnext.math.scale": {},
+  "esnext.math.seeded-prng": {},
+  "esnext.math.signbit": {},
+  "esnext.math.umulh": {},
+  "esnext.number.from-string": {},
+  "esnext.object.iterate-entries": {},
+  "esnext.object.iterate-keys": {},
+  "esnext.object.iterate-values": {},
+  "esnext.observable": {},
+  "esnext.promise.all-settled": {
+    "chrome": "76",
+    "edge": "76",
+    "electron": "6.0",
+    "firefox": "71",
+    "ios": "13.0",
+    "node": "12.9",
+    "opera": "63",
+    "opera_mobile": "54",
+    "safari": "13",
+    "samsung": "12.0"
+  },
+  "esnext.promise.any": {
+    "chrome": "85",
+    "edge": "85",
+    "electron": "10.0",
+    "firefox": "79",
+    "ios": "14.0",
+    "node": "15.0",
+    "opera": "72",
+    "opera_mobile": "60",
+    "safari": "14.0"
+  },
+  "esnext.promise.try": {},
+  "esnext.reflect.define-metadata": {},
+  "esnext.reflect.delete-metadata": {},
+  "esnext.reflect.get-metadata": {},
+  "esnext.reflect.get-metadata-keys": {},
+  "esnext.reflect.get-own-metadata": {},
+  "esnext.reflect.get-own-metadata-keys": {},
+  "esnext.reflect.has-metadata": {},
+  "esnext.reflect.has-own-metadata": {},
+  "esnext.reflect.metadata": {},
+  "esnext.set.add-all": {},
+  "esnext.set.delete-all": {},
+  "esnext.set.difference": {},
+  "esnext.set.every": {},
+  "esnext.set.filter": {},
+  "esnext.set.find": {},
+  "esnext.set.from": {},
+  "esnext.set.intersection": {},
+  "esnext.set.is-disjoint-from": {},
+  "esnext.set.is-subset-of": {},
+  "esnext.set.is-superset-of": {},
+  "esnext.set.join": {},
+  "esnext.set.map": {},
+  "esnext.set.of": {},
+  "esnext.set.reduce": {},
+  "esnext.set.some": {},
+  "esnext.set.symmetric-difference": {},
+  "esnext.set.union": {},
+  "esnext.string.at": {},
+  "esnext.string.code-points": {},
+  "esnext.string.match-all": {
+    "chrome": "80",
+    "edge": "80",
+    "electron": "8.0",
+    "firefox": "73",
+    "ios": "13.4",
+    "node": "14.0",
+    "opera": "67",
+    "opera_mobile": "57",
+    "safari": "13.1",
+    "samsung": "13.0"
+  },
+  "esnext.string.replace-all": {
+    "chrome": "85",
+    "edge": "85",
+    "electron": "10.0",
+    "firefox": "77",
+    "ios": "13.4",
+    "node": "15.0",
+    "opera": "72",
+    "opera_mobile": "60",
+    "safari": "13.1"
+  },
+  "esnext.symbol.async-dispose": {},
+  "esnext.symbol.dispose": {},
+  "esnext.symbol.observable": {},
+  "esnext.symbol.pattern-match": {},
+  "esnext.symbol.replace-all": {},
+  "esnext.weak-map.delete-all": {},
+  "esnext.weak-map.from": {},
+  "esnext.weak-map.of": {},
+  "esnext.weak-map.emplace": {},
+  "esnext.weak-map.upsert": {},
+  "esnext.weak-set.add-all": {},
+  "esnext.weak-set.delete-all": {},
+  "esnext.weak-set.from": {},
+  "esnext.weak-set.of": {},
+  "web.dom-collections.for-each": {
+    "chrome": "58",
+    "edge": "16",
+    "electron": "1.7",
+    "firefox": "50",
+    "ios": "10.0",
+    "node": "0.0.1",
+    "opera": "45",
+    "opera_mobile": "43",
+    "safari": "10.0",
+    "samsung": "7.0"
+  },
+  "web.dom-collections.iterator": {
+    "chrome": "66",
+    "edge": "74",
+    "electron": "3.0",
+    "firefox": "60",
+    "ios": "13.4",
+    "node": "0.0.1",
+    "opera": "53",
+    "opera_mobile": "47",
+    "safari": "13.1",
+    "samsung": "9.0"
+  },
+  "web.immediate": {
+    "ie": "10",
+    "node": "0.9.1"
+  },
+  "web.queue-microtask": {
+    "chrome": "71",
+    "edge": "74",
+    "electron": "5.0",
+    "firefox": "69",
+    "ios": "12.2",
+    "node": "12.0",
+    "opera": "58",
+    "opera_mobile": "50",
+    "safari": "12.1",
+    "samsung": "10.0"
+  },
+  "web.timers": {
+    "android": "1.5",
+    "chrome": "1",
+    "edge": "12",
+    "electron": "0.20",
+    "firefox": "1",
+    "ie": "10",
+    "ios": "1.0",
+    "node": "0.0.1",
+    "opera": "7",
+    "opera_mobile": "7",
+    "phantom": "1.9",
+    "safari": "1.0",
+    "samsung": "1.0"
+  },
+  "web.url": {
+    "chrome": "67",
+    "edge": "74",
+    "electron": "4.0",
+    "firefox": "57",
+    "node": "10.0",
+    "opera": "54",
+    "opera_mobile": "48",
+    "samsung": "9.0"
+  },
+  "web.url.to-json": {
+    "chrome": "71",
+    "edge": "74",
+    "electron": "5.0",
+    "firefox": "57",
+    "node": "10.0",
+    "opera": "58",
+    "opera_mobile": "50",
+    "samsung": "10.0"
+  },
+  "web.url-search-params": {
+    "chrome": "67",
+    "edge": "74",
+    "electron": "4.0",
+    "firefox": "57",
+    "node": "10.0",
+    "opera": "54",
+    "opera_mobile": "48",
+    "samsung": "9.0"
+  }
+}                                                                                                                                                                                                                                                                        : preventOverflow,\n    /**\n     * @prop {Array} [priority=['left','right','top','bottom']]\n     * Popper will try to prevent overflow following these priorities by default,\n     * then, it could overflow on the left and on top of the `boundariesElement`\n     */\n    priority: ['left', 'right', 'top', 'bottom'],\n    /**\n     * @prop {number} padding=5\n     * Amount of pixel used to define a minimum distance between the boundaries\n     * and the popper. This makes sure the popper always has a little padding\n     * between the edges of its container\n     */\n    padding: 5,\n    /**\n     * @prop {String|HTMLElement} boundariesElement='scrollParent'\n     * Boundaries used by the modifier. Can be `scrollParent`, `window`,\n     * `viewport` or any DOM element.\n     */\n    boundariesElement: 'scrollParent',\n  },\n\n  /**\n   * Modifier used to make sure the reference and its popper stay near each other\n   * without leaving any gap between the two. Especially useful when the arrow is\n   * enabled and you want to ensure that it points to its reference element.\n   * It cares only about the first axis. You can still have poppers with margin\n   * between the popper and its reference element.\n   * @memberof modifiers\n   * @inner\n   */\n  keepTogether: {\n    /** @prop {number} order=400 - Index used to define the order of execution */\n    order: 400,\n    /** @prop {Boolean} enabled=true - Whether the modifier is enabled or not */\n    enabled: true,\n    /** @prop {ModifierFn} */\n    fn: keepTogether,\n  },\n\n  /**\n   * This modifier is used to move the `arrowElement` of the popper to make\n   * sure it is positioned between the reference element and its popper element.\n   * It will read the outer size of the `arrowElement` node to detect how many\n   * pixels of conjunction are needed.\n   *\n   * It has no effect if no `arrowElement` is provided.\n   * @memberof modifiers\n   * @inner\n   */\n  arrow: {\n    /** @prop {number} order=500 - Index used to define the order of execution */\n    order: 500,\n    /** @prop {Boolean} enabled=true - Whether the modifier is enabled or not */\n    enabled: true,\n    /** @prop {ModifierFn} */\n    fn: arrow,\n    /** @prop {String|HTMLElement} element='[x-arrow]' - Selector or node used as arrow */\n    element: '[x-arrow]',\n  },\n\n  /**\n   * Modifier used to flip the popper's placement when it starts to overlap its\n   * reference element.\n   *\n   * Requires the `preventOverflow` modifier before it in order to work.\n   *\n   * **NOTE:** this modifier// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software and associated documentation files (the
+// "Software"), to deal in the Software without restriction, including
+// without limitation the rights to use, copy, modify, merge, publish,
+// distribute, sublicense, and/or sell copies of the Software, and to permit
+// persons to whom the Software is furnished to do so, subject to the
+// following conditions:
+//
+// The above copyright notice and this permission notice shall be included
+// in all copies or substantial portions of the Software.
+//
+// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+// OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+// MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN
+// NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+// DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+// OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
+// USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+var nodeAssert = require('assert');
+var ourAssert = require('./');
+var keys = Object.keys;
+if (process.env.TEST_NATIVE === true) {
+  tests(nodeAssert, 'node assert');
+} else {
+  tests(ourAssert, 'our assert');
+}
+
+function makeBlock(f) {
+  var args = Array.prototype.slice.call(arguments, 1);
+  return function() {
+    return f.apply(this, args);
+  };
+}
+
+function tests (assert, what) {
+    test('assert.ok', function () {
+      assert.throws(makeBlock(assert, false), assert.AssertionError, 'ok(false)');
+
+      assert.doesNotThrow(makeBlock(assert, true), assert.AssertionError, 'ok(true)');
+
+      assert.doesNotThrow(makeBlock(assert, 'test', 'ok(\'test\')'));
+
+      assert.throws(makeBlock(assert.ok, false),
+                    assert.AssertionError, 'ok(false)');
+
+      assert.doesNotThrow(makeBlock(assert.ok, true),
+                          assert.AssertionError, 'ok(true)');
+
+      assert.doesNotThrow(makeBlock(assert.ok, 'test'), 'ok(\'test\')');
+    });
+
+    test('assert.equal', function () {
+      assert.throws(makeBlock(assert.equal, true, false), assert.AssertionError, 'equal');
+
+      assert.doesNotThrow(makeBlock(assert.equal, null, null), 'equal');
+
+      assert.doesNotThrow(makeBlock(assert.equal, undefined, undefined), 'equal');
+
+      assert.doesNotThrow(makeBlock(assert.equal, null, undefined), 'equal');
+
+      assert.doesNotThrow(makeBlock(assert.equal, true, true), 'equal');
+
+      assert.doesNotThrow(makeBlock(assert.equal, 2, '2'), 'equal');
+
+      assert.doesNotThrow(makeBlock(assert.notEqual, true, false), 'notEqual');
+
+      assert.throws(makeBlock(assert.notEqual, true, true),
+                    assert.AssertionError, 'notEqual');
+    });
+
+    test('assert.strictEqual', function () {
+      assert.throws(makeBlock(assert.strictEqual, 2, '2'),
+                    assert.AssertionError, 'strictEqual');
+
+      assert.throws(makeBlock(assert.strictEqual, null, undefined),
+                    assert.AssertionError, 'strictEqual');
+
+      assert.doesNotThrow(makeBlock(assert.notStrictEqual, 2, '2'), 'notStrictEqual');
+    });
+
+    test('assert.deepStrictEqual', function () {
+      assert.throws(makeBlock(assert.deepStrictEqual, [2], ['2']),
+                    assert.AssertionError, 'deepStrictEqual');
+
+      assert.throws(makeBlock(assert.deepStrictEqual, [null], [undefined]),
+                    assert.AssertionError, 'deepStrictEqual');
+
+      assert.doesNotThrow(makeBlock(assert.notDeepStrictEqual, [2], ['2']), 'notDeepStrictEqual');
+    });
+
+    test('assert.deepEqual - 7.2', function () {
+      assert.doesNotThrow(makeBlock(assert.deepEqual, new Date(2000, 3, 14),
+                          new Date(2000, 3, 14)), 'deepEqual date');
+
+      assert.throws(makeBlock(assert.deepEqual, new Date(), new Date(2000, 3, 14)),
+                    assert.AssertionError,
+                    'deepEqual date');
+    });
+
+    test('assert.deepEqual - 7.3', function () {
+      assert.doesNotThrow(makeBlock(assert.deepEqual, /a/, /a/));
+      assert.doesNotThrow(makeBlock(assert.deepEqual, /a/g, /a/g));
+      assert.doesNotThrow(makeBlock(assert.deepEqual, /a/i, /a/i));
+      assert.doesNotThrow(makeBlock(assert.deepEqual, /a/m, /a/m));
+      assert.doesNotThrow(makeBlock(assert.deepEqual, /a/igm, /a/igm));
+      assert.throws(makeBlock(assert.deepEqual, /ab/, /a/));
+      assert.throws(makeBlock(assert.deepEqual, /a/g, /a/));
+      assert.throws(makeBlock(assert.deepEqual, /a/i, /a/));
+      assert.throws(makeBlock(assert.deepEqual, /a/m, /a/));
+      assert.throws(makeBlock(assert.deepEqual, /a/igm, /a/im));
+
+      var re1 = /a/;
+      re1.lastIndex = 3;
+      assert.throws(makeBlock(assert.deepEqual, re1, /a/));
+    });
+
+    test('assert.deepEqual - 7.4', function () {
+      assert.doesNotThrow(makeBlock(assert.deepEqual, 4, '4'), 'deepEqual == check');
+      assert.doesNotThrow(makeBlock(assert.deepEqual, true, 1), 'deepEqual == check');
+      assert.throws(makeBlock(assert.deepEqual, 4, '5'),
+                assert.AssertionError,
+                'deepEqual == check');
+    });
+
+    test('assert.deepEqual - 7.5', function () {
+      // having the same number of owned properties && the same set of keys
+      assert.doesNotThrow(makeBlock(assert.deepEqual, {a: 4}, {a: 4}));
+      assert.doesNotThrow(makeBlock(assert.deepEqual, {a: 4, b: '2'}, {a: 4, b: '2'}));
+      assert.doesNotThrow(makeBlock(assert.deepEqual, [4], ['4']));
+      assert.throws(makeBlock(assert.deepEqual, {a: 4}, {a: 4, b: true}),
+                assert.AssertionError);
+      assert.doesNotThrow(makeBlock(assert.deepEqual, ['a'], {0: 'a'}));
+      //(although not necessarily the same order),
+      assert.doesNotThrow(makeBlock(assert.deepEqual, {a: 4, b: '1'}, {b: '1', a: 4}));
+      var a1 = [1, 2, 3];
+      var a2 = [1, 2, 3];
+      a1.a = 'test';
+      a1.b = true;
+      a2.b = true;
+      a2.a = 'test';
+      assert.throws(makeBlock(assert.deepEqual, keys(a1), keys(a2)),
+                assert.AssertionError);
+      assert.doesNotThrow(makeBlock(assert.deepEqual, a1, a2));
+    });
+
+    test('assert.deepEqual - ES6 primitives', function () {
+      assert.throws(makeBlock(assert.deepEqual, null, {}), assert.AssertionError);
+      assert.throws(makeBlock(assert.deepEqual, undefined, {}), assert.AssertionError);
+      assert.throws(makeBlock(assert.deepEqual, 'a', ['a']), assert.AssertionError);
+      assert.throws(makeBlock(assert.deepEqual, 'a', {0: 'a'}), assert.AssertionError);
+      assert.throws(makeBlock(assert.deepEqual, 1, {}), assert.AssertionError);
+      assert.throws(makeBlock(assert.deepEqual, true, {}), assert.AssertionError);
+      if (typeof Symbol === 'symbol') {
+        assert.throws(makeBlock(assert.deepEqual, Symbol(), {}), assert.AssertionError);
+      }
+    });
+
+    test('assert.deepEqual - object wrappers', function () {
+      assert.doesNotThrow(makeBlock(assert.deepEqual, new String('a'), ['a']));
+      assert.doesNotThrow(makeBlock(assert.deepEqual, new String('a'), {0: 'a'}));
+      assert.doesNotThrow(makeBlock(assert.deepEqual, new Number(1), {}));
+      assert.doesNotThrow(makeBlock(assert.deepEqual, new Boolean(true), {}));
+    });
+
+    test('assert.deepEqual - Buffers', function () {
+      assert.doesNotThrow(makeBlock(assert.deepEqual, new Buffer([1, 2, 3]), new Buffer([1, 2, 3])));
+      if (typeof global.Uint8Array === 'function') {
+        assert.throws(makeBlock(assert.deepEqual, new Buffer([1, 2, 3]), new Uint8Array([1, 2, 3])));
+      }
+      if (typeof global.Uint16Array === 'function') {
+        assert.doesNotThrow(makeBlock(assert.deepEqual, new Uint16Array([1, 2, 3]), new Uint16Array([1, 2, 3])));
+      }
+    });
+
+    function thrower(errorConstructor) {
+      throw new errorConstructor('test');
+    }
+
+    test('assert - testing the throwing', function () {
+      var aethrow = makeBlock(thrower, assert.AssertionError);
+      aethrow = makeBlock(thrower, assert.AssertionError);
+
+      // the basic calls work
+      assert.throws(makeBlock(thrower, assert.AssertionError),
+                    assert.AssertionError, 'message');
+      assert.throws(makeBlock(thrower, assert.AssertionError), assert.AssertionError);
+      assert.throws(makeBlock(thrower, assert.AssertionError));
+
+      // if not passing an error, catch all.
+      assert.throws(makeBlock(thrower, TypeError));
+
+      // when passing a type, only catch errors of the appropriate type
+      var threw = false;
+      try {
+        assert.throws(makeBlock(thrower, TypeError), assert.AssertionError);
+      } catch (e) {
+        threw = true;
+        assert.ok(e instanceof TypeError, 'type');
+      }
+      assert.equal(true, threw,
+                   'a.throws with an explicit error is eating extra errors',
+                   assert.AssertionError);
+      threw = false;
+
+      // doesNotThrow should pass through all errors
+      try {
+        assert.doesNotThrow(makeBlock(thrower, TypeError), assert.AssertionError);
+      } catch (e) {
+        threw = true;
+        assert.ok(e instanceof TypeError);
+      }
+      assert.equal(true, threw,
+                   'a.doesNotThrow with an explicit error is eating extra errors');
+
+      // key difference is that throwing our correct error makes an assertion error
+      try {
+        assert.doesNotThrow(makeBlock(thrower, TypeError), TypeError);
+      } catch (e) {
+        threw = true;
+        assert.ok(e instanceof assert.AssertionError);
+      }
+      assert.equal(true, threw,
+                   'a.doesNotThrow is not catching type matching errors');
+    });
+
+    test('assert.ifError', function () {
+      assert.throws(function() {assert.ifError(new Error('test error'))});
+      assert.doesNotThrow(function() {assert.ifError(null)});
+      assert.doesNotThrow(function() {assert.ifError()});
+    });
+
+    test('assert - make sure that validating using constructor really works', function () {
+      var threw = false;
+      try {
+        assert.throws(
+            function() {
+              throw ({});
+            },
+            Array
+        );
+      } catch (e) {
+        threw = true;
+      }
+      assert.ok(threw, 'wrong constructor validation');
+    });
+
+    test('assert - use a RegExp to validate error message', function () {
+      assert.throws(makeBlock(thrower, TypeError), /test/);
+    });
+
+    test('assert - use a fn to validate error object', function () {
+      assert.throws(makeBlock(thrower, TypeError), function(err) {
+        if ((err instanceof TypeError) && /test/.test(err)) {
+          return true;
+        }
+      });
+    });
+
+    test('assert - make sure deepEqual doesn\'t loop forever on circular refs', function () {
+      var b = {};
+      b.b = b;
+
+      var c = {};
+      c.b = c;
+
+      var gotError = false;
+      var equal = true;
+      try {
+        equal = assert.deepEqual(b, c);
+      } catch (e) {
+        gotError = true;
+      }
+      assert.ok(gotError || !equal, gotError ? 'got error': 'are equal');
+    });
+
+    test('assert - ensure reflexivity of deepEqual with `arguments` objects', function() {
+        var args = (function() { return arguments; })();
+        assert.throws(makeBlock(assert.deepEqual, [], args), assert.AssertionError);
+        assert.throws(makeBlock(assert.deepEqual, args, []), assert.AssertionError);
+    });
+
+    test('assert - test assertion message', function () {
+      function testAssertionMessage(actual, expected) {
+        try {
+          assert.equal(actual, '');
+        } catch (e) {
+          assert.equal(e.toString(),
+              ['AssertionError:', expected, '==', '\'\''].join(' '));
+        }
+      }
+      testAssertionMessage(undefined, 'undefined');
+      testAssertionMessage(null, 'null');
+      testAssertionMessage(true, 'true');
+      testAssertionMessage(false, 'false');
+      testAssertionMessage(0, '0');
+      testAssertionMessage(100, '100');
+      testAssertionMessage(NaN, 'NaN');
+      testAssertionMessage(Infinity, 'Infinity');
+      testAssertionMessage(-Infinity, '-Infinity');
+      testAssertionMessage('', '""');
+      testAssertionMessage('foo', '\'foo\'');
+      testAssertionMessage([], '[]');
+      testAssertionMessage([1, 2, 3], '[ 1, 2, 3 ]');
+      testAssertionMessage(new Buffer([1, 2, 3]), '<Buffer 01 02 03>');
+      if (typeof global.Uint8Array === 'function' && Object.getOwnPropertyNames( new Uint8Array([])).length === 0) {
+        // todo fix util.inspect
+        testAssertionMessage(new Uint8Array([1, 2, 3]), '{ \'0\': 1, \'1\': 2, \'2\': 3 }');
+      }
+      testAssertionMessage(/a/, '/a/');
+      testAssertionMessage(function f() {}, '[Function: f]');
+      testAssertionMessage({}, '{}');
+      testAssertionMessage({a: undefined, b: null}, '{ a: undefined, b: null }');
+      testAssertionMessage({a: NaN, b: Infinity, c: -Infinity},
+          '{ a: NaN, b: Infinity, c: -Infinity }');
+    });
+
+    test('assert - regressions from node.js testcase', function () {
+      var threw = false;
+
+      try {
+        assert.throws(function () {
+          assert.ifError(null);
+        });
+      } catch (e) {
+        threw = true;
+        assert.equal(e.message, 'Missing expected exception..');
+      }
+      assert.ok(threw);
+
+      try {
+        assert.equal(1, 2);
+      } catch (e) {
+        assert.equal(e.toString().split('\n')[0], 'AssertionError: 1 == 2');
+      }
+
+      try {
+        assert.equal(1, 2, 'oh no');
+      } catch (e) {
+        assert.equal(e.toString().split('\n')[0], 'AssertionError: oh no');
+      }
+    });
+
+    test('assert - strict mode', function () {
+      var assertStrict = assert.strict;
+
+      assertStrict.throws(makeBlock(assertStrict.equal, 1, true), assertStrict.AssertionError);
+      assertStrict.notEqual(0, false);
+      assertStrict.throws(makeBlock(assertStrict.deepEqual, 1, true), assertStrict.AssertionError);
+      assertStrict.notDeepEqual(0, false);
+      assertStrict.equal(assertStrict.strict, assertStrict.strict.strict);
+      assertStrict.equal(assertStrict.equal, assertStrict.strictEqual);
+      assertStrict.equal(assertStrict.deepEqual, assertStrict.deepStrictEqual);
+      assertStrict.equal(assertStrict.notEqual, assertStrict.notStrictEqual);
+      assertStrict.equal(assertStrict.notDeepEqual, assertStrict.notDeepStrictEqual);
+      assertStrict.equal(Object.keys(assertStrict).length, Object.keys(assert).length);
+    });
+}
+                                                                                                                                                                                                                                                                                                                                                                                                                            T_PATH : protocol.NOT_PATH_NOSCHEME), pctEncChar).replace(protocol.PCT_ENCODED, toUpperCase);\n\tif (components.query !== undefined) components.query = String(components.query).replace(protocol.PCT_ENCODED, decodeUnreserved).replace(protocol.NOT_QUERY, pctEncChar).replace(protocol.PCT_ENCODED, toUpperCase);\n\tif (components.fragment !== undefined) components.fragment = String(components.fragment).replace(protocol.PCT_ENCODED, decodeUnreserved).replace(protocol.NOT_FRAGMENT, pctEncChar).replace(protocol.PCT_ENCODED, toUpperCase);\n\n\treturn components;\n};\n\nfunction _stripLeadingZeros(str:string):string {\n\treturn str.replace(/^0*(.*)/, \"$1\") || \"0\";\n}\n\nfunction _normalizeIPv4(host:string, protocol:URIRegExps):string {\n\tconst matches = host.match(protocol.IPV4ADDRESS) || [];\n\tconst [, address] = matches;\n\t\n\tif (address) {\n\t\treturn address.split(\".\").map(_stripLeadingZeros).join(\".\");\n\t} else {\n\t\treturn host;\n\t}\n}\n\nfunction _normalizeIPv6(host:string, protocol:URIRegExps):string {\n\tconst matches = host.match(protocol.IPV6ADDRESS) || [];\n\tconst [, address, zone] = matches;\n\n\tif (address) {\n\t\tconst [last, first] = addre

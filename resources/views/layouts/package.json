@@ -1,0 +1,103 @@
+# normalize-url [![Build Status](https://travis-ci.org/sindresorhus/normalize-url.svg?branch=master)](https://travis-ci.org/sindresorhus/normalize-url) [![Coverage Status](https://coveralls.io/repos/github/sindresorhus/normalize-url/badge.svg?branch=master)](https://coveralls.io/github/sindresorhus/normalize-url?branch=master)
+
+> [Normalize](https://en.wikipedia.org/wiki/URL_normalization) a URL
+
+Useful when you need to display, store, deduplicate, sort, compare, etc, URLs.
+
+
+## Install
+
+```
+$ npm install normalize-url
+```
+
+
+## Usage
+
+```js
+const normalizeUrl = require('normalize-url');
+
+normalizeUrl('sindresorhus.com');
+//=> 'http://sindresorhus.com'
+
+normalizeUrl('HTTP://xn--xample-hva.com:80/?b=bar&a=foo');
+//=> 'http://êxample.com/?a=foo&b=bar'
+```
+
+
+## API
+
+### normalizeUrl(url, [options])
+
+#### url
+
+Type: `string`
+
+URL to normalize.
+
+#### options
+
+Type: `Object`
+
+##### defaultProtocol
+
+Type: `string`<br>
+Default: `http:`
+
+##### normalizeProtocol
+
+Type: `boolean`<br>
+Default: `true`
+
+Prepends `defaultProtocol` to the URL if it's protocol-relative.
+
+```js
+normalizeUrl('//sindresorhus.com:80/');
+//=> 'http://sindresorhus.com'
+
+normalizeUrl('//sindresorhus.com:80/', {normalizeProtocol: false});
+//=> '//sindresorhus.com'
+```
+
+##### forceHttp
+
+Type: `boolean`<br>
+Default: `false`
+
+Normalizes `https:` URLs to `http:`.
+
+```js
+normalizeUrl('https://sindresorhus.com:80/');
+//=> 'https://sindresorhus.com'
+
+normalizeUrl('https://sindresorhus.com:80/', {normalizeHttps: true});
+//=> 'http://sindresorhus.com'
+```
+
+##### forceHttps
+
+Type: `boolean`<br>
+Default: `false`
+
+Normalizes `http:` URLs to `https:`.
+
+```js
+normalizeUrl('https://sindresorhus.com:80/');
+//=> 'https://sindresorhus.com'
+
+normalizeUrl('http://sindresorhus.com:80/', {normalizeHttp: true});
+//=> 'https://sindresorhus.com'
+```
+
+This option can't be used with the `forceHttp` option at the same time.
+
+##### stripHash
+
+Type: `boolean`<br>
+Default: `true`
+
+Removes hash from the URL.
+
+```js
+normalizeUrl('sindresorhus.com/about.html#contact');
+//=> 
